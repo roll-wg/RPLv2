@@ -16,7 +16,7 @@ I will say a bit more inline, but want to note upfront that my primary unease he
 yet there is no "trail of breadcrumbs" for someone to follow from "I want to implement MOP 7" and end up at the sentence I quoted above.  A formal Update to 6550 would provide such a trail, as would being listed as a reference in the IANA registry for MOP value 7.  My current understanding is that the only thing we have right now is "repeat this requirement in whatever document ends up providing a full specification for MOP value 7", and I don't think that relying on the IETF's collective memory is a great way to enforce such a requirement -- we can and have in the past slipped up and published RFCs that are inconsistent with requirements imposed by previous ones.
 
 
-* Benjamin on the RUL dradt:
+* Benjamin again, on draft-ietf-roll-unaware-leaves-26::
 
       I still feel that if we're going to incrementally add new properties to MOP 7, we
       should list the relevant documents as references in the registry until MOP 7 is 
